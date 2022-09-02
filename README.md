@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rub" alt="abdul-rub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulrub" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrub?logo=twitter&style=for-the-badge" alt="abdulrub" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abdulrub18" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrub?logo=twitter&style=for-the-badge" alt="abdulrub18" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
