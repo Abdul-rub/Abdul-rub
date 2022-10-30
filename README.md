@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Rub</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+sans+serif&size=30&pause=1000&color=E1873C&width=435&lines=Hello+I'm+Abdul+Rub" alt="Typing SVG" /></a>
+
+<p align="center">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F79912&vCenter=true&width=500&lines=Hello%2CI'm++Abdul+Rub;Frontend+Developer"/></p>
+
+
 <h3 align="center">A passionate frontend developer from Asansol,West Bengal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rub&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rub" /> </p>
