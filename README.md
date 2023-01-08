@@ -4,7 +4,7 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=500&lines=Hello%2CI'm++Abdul+Rub;Frontend+Developer"/></p>
 
 
-<h3 align="center">A passionate frontend developer from Asansol,West Bengal</h3>
+<h3 align="center">A passionate Full Stack developer from Asansol,West Bengal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rub&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rub" /> </p>
 
