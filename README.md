@@ -28,9 +28,16 @@
 </div>
 <br/>
 <br/>
+# 📊 My Github Statistics :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rub&show_icons=true&locale=en&layout=compact" alt="abdul-rub" /></p>
+<!-- contributions  -->
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=summaiya-begum&&show_icons=true&theme=radical"/> -->
+  
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-rub&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rub&show_icons=true&locale=en&layout=compact" alt="abdul-rub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-rub&show_icons=true&locale=en" alt="abdul-rub" /></p>
-
+ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rub&" alt="abdul-rub" /></p>
