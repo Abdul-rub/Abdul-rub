@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rub</h1>
 
 <p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=500&lines=Hello%2CI'm++Abdul+Rub;Full+Stack+Developer;Transitioning+to+DevOps"/></p>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=700&lines=Hello%2CI'm++Abdul+Rub;Full+Stack+Developer;Transitioning+to+DevOps"/></p>
 
 <h3 align="center">A passionate developer from Asansol, West Bengal expanding into DevOps</h3>
 
